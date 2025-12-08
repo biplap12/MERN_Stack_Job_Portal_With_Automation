@@ -1,4 +1,4 @@
-# Job Portal Backend
+# Job Portal Backend 
 
 This is the backend server for the MERN Stack Job Portal application. It handles user authentication, job postings, applications, and automated newsletter functionality.
 
